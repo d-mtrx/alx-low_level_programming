@@ -26,7 +26,6 @@ for (digit1 = 0; digit1 < 9; digit1++)
 		putchar(' ');
 	}
 }
-
 putchar('\n');
 
 return (0);
