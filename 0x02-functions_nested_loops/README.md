@@ -13,8 +13,8 @@ What you should learn from this project:
 
 ---
 
-### [0. _putchar](./0-holberton.c)
-* Write a program that prints Holberton, followed by a new line.
+### [0. _putchar](./putchar.c)
+* Write a program that prints _putchar, followed by a new line.
 
 ### [1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game](./1-alphabet.c)
 * Write a function that prints the alphabet, in lowercase, followed by a new line.
@@ -48,8 +48,3 @@ What you should learn from this project:
 
 ### [11. Holberton School, 98 Battery Street, San Francisco CA 94111](./11-print_to_98.c)
 * Write a function that prints all natural numbers from n to 98, followed by a new line.
-
----
-
-## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
