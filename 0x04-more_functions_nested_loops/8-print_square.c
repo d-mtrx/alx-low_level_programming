@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_square - check the code for Holberton School students.
+ * print_square
  * @size: Dimension of square wanted
  * Return: Always 0.
  */
