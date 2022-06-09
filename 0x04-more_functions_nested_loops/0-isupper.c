@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isupper - check the code for Holberton School students.
+ * _isupper
  * @c: Character input
  * Return: Always 0.
  */
