@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_triangle - check the code for Holberton School students.
+ * print_triangle
  * @size: Determines size of triangle
  * Return: Always 0.
  */
