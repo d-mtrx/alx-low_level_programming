@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * more_numbers - check the code for Holberton School students.
+ * more_numbers
  *
  * Return: Always 0.
  */
