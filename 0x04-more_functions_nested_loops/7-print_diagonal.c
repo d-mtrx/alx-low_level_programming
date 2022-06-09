@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_diagonal - check the code for Holberton School students.
+ * print_diagonal
  * @n: Number of spaces wanted
  * Return: Always 0.
  */
