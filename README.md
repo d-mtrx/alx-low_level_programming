@@ -1,1 +1,1 @@
-This directory contains work with singly linked lists.
+This directory contains directories containing ALX works.
