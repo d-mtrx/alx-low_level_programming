@@ -1,1 +1,1 @@
-# alx-low_level_programming
+This directory contains work with singly linked lists.
